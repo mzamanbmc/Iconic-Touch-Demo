@@ -696,14 +696,12 @@ header ul li a:hover{
     position: relative;
     top: 50px;
 }
-
 .team-member-section .team-img-section .figure3{
     -webkit-clip-path: polygon(20% 0%, 100% 0, 100% 100%, 0% 100%);
     clip-path: polygon(20% 0%, 100% 0, 100% 100%, 0% 100%);
     overflow: hidden;
     border-radius: 20px;
 }
-
 .team-member-section .team-img-section .figure4{
     -webkit-clip-path: polygon(0 0, 86% 0, 100% 100%, 0% 100%);
     clip-path: polygon(0 0, 86% 0, 100% 100%, 0% 100%);
@@ -712,10 +710,6 @@ header ul li a:hover{
     position: relative;
     top: 50px;
 }
-
-
-
-
 .team-img-section .contact-link {
 
 }
@@ -723,42 +717,6 @@ header ul li a:hover{
     list-style: none;
     justify-content: flex-start;
 }
-/* .team-img-section .contact-link ul li{
-    margin: 0 8px;
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
-    text-align: center;
-    border-radius: 50%;
-    background: #FC46DE;
-    transition: 0.4s;
-} */
-/* .team-img-section .contact-link ul li a i{
-    font-size: 22px;
-    color: #fff;
-    transition: 0.4s;
-} */
-/* .team-img-section .contact-link ul li:hover{
-    background: #fff;
-    transform: scale(1.3);
-    box-shadow: 1px -3px 14px 20px rgba(252,70,222,0.39);
-    -webkit-box-shadow: 1px -3px 14px 20px rgba(252,70,222,0.39);
-    -moz-box-shadow: 1px -3px 14px 20px rgba(252,70,222,0.39);
-}
-.team-img-section .contact-link ul li:hover i{
-    color: #FC46DE;
-    
-}
-.team-img-section:hover .contact-link{
-    opacity: 1;
-    visibility: visible;
-    transition: 0.8s ease-in;
-} */
-
-
-
-
-
 .img-content h5{
     font-size: 30px;
 }
